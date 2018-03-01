@@ -16,7 +16,7 @@ public class Block {
 	 */
 	private List<Transaction> transactions;
 	/**
-	 * 工作量证明
+	 * 工作量证明111
 	 */
 	private int proof;
 	private String previousHash;
